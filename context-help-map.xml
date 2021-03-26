@@ -4,6 +4,7 @@
    <appContext helpID="t_my_first_task" path="topics/t_my_first_task.html"/>
    <appContext helpID="r_my_first_reference" path="topics/r_my_first_reference.html"/>
    <appContext helpID="c_my_first_concept" path="topics/c_my_second_concept.html"/>
+   <appContext helpID="c_my_third_concept" path="topics/c_my_third_concept.html"/>
    <appContext helpID="r_my_first_reference" path="topics/r_my_first_reference.html"/>
    <appContext helpID="c_my_first_concept" path="topics/c_my_second_concept.html"/>
    <appContext helpID="t_my_first_task" path="topics/t_my_first_task.html"/>
