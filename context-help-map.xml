@@ -9,6 +9,7 @@
    <appContext helpID="t_my_second_task" path="topics/t_my_second_task.html"/>
    <appContext helpID="t_my_third_task" path="topics/t_my_third_task.html"/>
    <appContext helpID="r_my_second_reference" path="topics/r_my_second_reference.html"/>
+   <appContext helpID="r_downloads" path="topics/r_downloads.html"/>
    <appContext helpID="r_my_first_reference" path="topics/r_my_first_reference.html"/>
    <appContext helpID="c_my_first_concept" path="topics/c_my_second_concept.html"/>
    <appContext helpID="t_my_first_task" path="topics/t_my_first_task.html"/>
